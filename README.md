@@ -23,7 +23,8 @@ This repository contains project on "Biomedical data exploration"/"Glosowa laczn
 
 ## Technologies
 - Anaconda3
-- Jupyter Notebook 
+- Jupyter Notebook 6.0.3
+- Python 3.7.6
 
 ## Setup
 Download repository, run Jupyter Notebook and choose PROJECT_KOD.ipynb. Remember to change path to records in nootebook.
