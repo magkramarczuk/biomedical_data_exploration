@@ -29,7 +29,7 @@ The project used manual analysis as well as automatic analysis using convolution
 - additional modules: librosa, keras, tensorflow
 
 ## Setup
-Download repository, run Jupyter Notebook and choose PROJECT_KOD.ipynb. Additional modules need to be instaled in Anaconda. Remember to change path to records in nootebook.
+Download repository, run Jupyter Notebook and choose PROJECT_KOD.ipynb. Additional modules need to be instaled into Anaconda. Remember to change path to records in nootebook.
 
 ## Devices
 Devices and apps on which data were rocorded:
@@ -43,4 +43,4 @@ Devices and apps on which data were rocorded:
 - Xiaomi Redmi Note 7 (Voice Recorder)
 
 ## Authors
-Chorzępa Piotr, Fręczek Sandra, Jegier Anita, Kaim Zuzanna, Kramarczuk Magdalena, Król Monika, Kula Joanna, Ludwa Monika
+Chorzępa Piotr, Frączek Sandra, Jegier Anita, Kaim Zuzanna, Kramarczuk Magdalena, Król Monika, Kula Joanna, Ludwa Monika
