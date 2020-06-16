@@ -6,9 +6,11 @@ Project on "Biomedical data exploration"/"Glosowa lacznosc z komputerem" course
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Devices](#devices)
+* [Authors](#authors)
 
 ## General info
-This repository contains project on "Biomedical data exploration"/"Glosowa lacznosc z komputerem" course. The main aim of the project was to acquire and analyze data with commands which can be used to build smart voice control system in house.
+This repository contains project on "Biomedical data exploration"/"Glosowa lacznosc z komputerem" course. The main aim of this project was to acquire and analyze data with commands which can be used to build smart voice control system in house.
+The project used manual analysis as well as automatic analysis using convolutional neural network.
 
 #### Main content:
 - PROJECT_KOD.ipynb - Jupyter Notebook with code
@@ -18,16 +20,16 @@ This repository contains project on "Biomedical data exploration"/"Glosowa laczn
 - Loading files
 - Filtering
 - Visualization of sample commands
-- Conclusions on visualization
-...
+- Conclusions on visualization - manual analysis
+- Modeling of convolutional neural network
+- Conclusion on model
 
 ## Technologies
 - Anaconda3
-- Jupyter Notebook 6.0.3
-- Python 3.7.6
+- additional modules: librosa, keras, tensorflow
 
 ## Setup
-Download repository, run Jupyter Notebook and choose PROJECT_KOD.ipynb. Remember to change path to records in nootebook.
+Download repository, run Jupyter Notebook and choose PROJECT_KOD.ipynb. Additional modules need to be instaled in Anaconda. Remember to change path to records in nootebook.
 
 ## Devices
 Devices and apps on which data were rocorded:
@@ -39,3 +41,6 @@ Devices and apps on which data were rocorded:
 - Nokia 7.2 (Voice Recorder v. 36)
 - Huawei Y6 Prime (Voice Recorder)
 - Xiaomi Redmi Note 7 (Voice Recorder)
+
+## Authors
+Chorzępa Piotr, Fręczek Sandra, Jegier Anita, Kaim Zuzanna, Kramarczuk Magdalena, Król Monika, Kula Joanna, Ludwa Monika
