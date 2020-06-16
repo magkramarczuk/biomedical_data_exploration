@@ -13,23 +13,23 @@ This repository contains project on "Biomedical data exploration"/"Glosowa laczn
 The project used manual analysis as well as automatic analysis using convolutional neural network.
 
 #### Main content:
-- PROJECT_KOD.ipynb - Jupyter Notebook with code
+- PROJECT_CODE_FINAL.ipynb - Jupyter Notebook with code
 - data - folder with commands' records and labels
 
-#### Code (PROJECT_KOD.ipynb) contains the following sections:
+#### Code (PROJECT_CODE_FINAL.ipynb) contains the following sections:
 - Loading files
 - Filtering
 - Visualization of sample commands
 - Conclusions on visualization - manual analysis
 - Modeling of convolutional neural network
-- Conclusion on model
+- Conclusions on model
 
 ## Technologies
 - Anaconda3
 - additional modules: librosa, keras, tensorflow
 
 ## Setup
-Download repository, run Jupyter Notebook and choose PROJECT_KOD.ipynb. Additional modules need to be instaled into Anaconda. Remember to change path to records in nootebook.
+Download repository, run Jupyter Notebook and choose PROJECT_CODE_FINAL.ipynb. Additional modules need to be instaled into Anaconda. Remember to change path to records in nootebook.
 
 ## Devices
 Devices and apps on which data were rocorded:
