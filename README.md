@@ -1,5 +1,6 @@
 # biomedical_data_exploration
 Project on "Biomedical data exploration"/"Glosowa lacznosc z komputerem" course
+Krakow, June 2020
 
 ## Table of contents
 * [General info](#general-info)
